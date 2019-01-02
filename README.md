@@ -5,3 +5,6 @@
 
 https://www.coursera.org/
 
+> DZone
+
+https://dzone.com/java-jdk-development-tutorials-tools-news/list
